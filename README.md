@@ -54,6 +54,4 @@ Multilingual (English / Korean / Japanese / Mandarin)
 ---
 
 ## 🎯 Current Focus  
-- Exploring **foundation models and LLM applications**  
-- Expanding skills in **AI system design and MLOps**  
-- Open to roles in **ML Research, SWE, and Data Engineering**
+- Open to roles in **SWE and ML Engineering**
