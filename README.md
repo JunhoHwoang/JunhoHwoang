@@ -1,15 +1,14 @@
 # 👋 Hi, I’m Junho Hwoang  
 
-💻 **Software Engineer / Machine Learning Researcher**  
+💻 **Software Engineer**  
 🎓 **B.S. Computer Science & Data Analytics @ The Ohio State University** (Double Major)  
 📍 Columbus, OH | 📫 junho10255@gmail.com  
 
 ---
 
 ## 🧠 About Me  
-- Passionate about **AI, data-driven systems, and deep learning research**  
-- Experienced in **end-to-end model development** and **full-stack web applications**  
-- Interested in **ML research, SWE, and AI-driven product innovation**  
+- Experienced in **full-stack web applications** and **end-to-end model development**
+- Interested in **SWE and AI-driven product innovation**  
 - Fluent in **English, Korean, Japanese** | Intermediate **Mandarin**
 
 ---
@@ -19,18 +18,18 @@
 **Artificial Intelligence Research Intern @ OSU Department of Biomedical Informatics**  
 *May 2025 – Sep 2025*  
 - Designed and maintained **biomedical signal processing pipelines**  
-- Fine-tuned deep learning models (**PyTorch, NumPy, scikit-learn**)  
+- Developed and Fine-tuned deep learning models (**PyTorch, NumPy, scikit-learn**)  
 - Improved research efficiency through optimized **data workflow automation**
 
 ---
 
 ## 🧩 Leadership  
 
-**Lead Frontend Developer @ Collaborative Software Development Club** *(Aug 2024 – Present)*  
-- Led frontend design for responsive UIs integrating backend APIs  
+**Senior Web Developer @ Collaborative Software Development Club** *(Aug 2024 – Present)*  
+- Lead a team of 8 junior developers in building full-stack software solutions, providing end-to-end ownership on core features while serving as Scrum Master, facilitating code reviews, design discussions, and team meetings
 
 **Head of Communication @ KISO (Korean International Student Organization)** *(May 2025 – Present)*  
-- Directed communications and partnerships for university events  
+- Managed event logistics and cross-organization collaboration, overseeing venues, schedules, sponsor relations, and execution for events serving 500+ attendees
 
 ---
 
@@ -39,14 +38,14 @@
 **Languages:**  
 Python, Java, JavaScript, TypeScript, Ruby, SQL, R, C  
 
-**Frameworks:**  
-React, Spring Boot, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS  
+**Frameworks/Libraries:** 
+React, Next.js, Spring Boot, Node.js, Express.js, Flask, FastAPI, Tailwind CSS  
 
 **AI / ML:**  
-PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, Data Preprocessing, Model Evaluation  
+PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, Data Preprocessing, Model Evaluation  
 
 **Systems & Tools:**  
-Git / GitHub, Linux, AWS, Docker, Unix Shell  
+Git / GitHub, Linux, AWS, Docker
 
 **Other:**  
 Multilingual (English / Korean / Japanese / Mandarin)
@@ -54,4 +53,4 @@ Multilingual (English / Korean / Japanese / Mandarin)
 ---
 
 ## 🎯 Current Focus  
-- Open to roles in **SWE and ML Engineering**
+- Open to roles in **SWE**
