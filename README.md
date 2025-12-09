@@ -38,7 +38,7 @@
 **Languages:**  
 Python, Java, JavaScript, TypeScript, Ruby, SQL, R, C  
 
-**Frameworks/Libraries:** 
+**Frameworks/Libraries:**  
 React, Next.js, Spring Boot, Node.js, Express.js, Flask, FastAPI, Tailwind CSS  
 
 **AI / ML:**  
